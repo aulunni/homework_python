@@ -1,2 +1,1 @@
-# homework_python
-# homework_python
+# RAZdelno 2027.
